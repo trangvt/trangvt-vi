@@ -1,1 +1,1 @@
-# trangvt-vi
+A simple function to remove tone mark
